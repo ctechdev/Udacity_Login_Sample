@@ -1,7 +1,7 @@
 Implementing Login on Android with FirebaseUI
 =========================
 
-This repository contains the final code for the Login Codelab.
+This repository contains the final code for the Udacity Login Codelab.
 
 License
 -------
